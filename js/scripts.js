@@ -10,5 +10,5 @@ var name = prompt('Witaj na mojej stronie - podaj swoje imię');
   do zakomentowania alert
 */
 
-alert('Witaj, ' + name);
+// czyli to nie powinno się pojawić alert('Witaj, ' + name);
 console.log('Witaj, ' + name);
